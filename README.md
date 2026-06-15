@@ -1,0 +1,3 @@
+VeloMOT (Velocity-aware Multi-Object Tracking) is an intelligent traffic monitoring and analytics platform designed for real-time vehicle detection, tracking, and speed estimation. The system leverages YOLOv10 for high-speed vehicle detection, DeepSORT with Kalman Filtering for reliable multi-object tracking, and Farneback Optical Flow for vehicle speed estimation.
+
+The platform provides a live dashboard displaying vehicle counts, average speed, traffic density, flow statistics, and congestion alerts. Users can upload traffic videos for automated analysis and export results in JSON or CSV formats for further processing.
